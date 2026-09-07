@@ -2,9 +2,8 @@
 
 # 🧮 IB Grade Calculator
 
-![Java](https://shields.io)
-![Project Stage](https://shields.io)
-![Target](https://shields.io)
+![Java](https://shields.io) &nbsp;&nbsp; ![Project Stage](https://shields.io) &nbsp;&nbsp; ![Target](https://shields.io)
+
 
 A simple tool to help track and calculate IB formative grades without doing the math in your head every time.
 
