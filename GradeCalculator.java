@@ -13,7 +13,7 @@ int grade = ginput.nextInt(); // all this asks makes prompts u to write the thin
         if (grade >= 94) {
             System.out.println("You are at 94/100 which is a 8/8"); // lowest for 8
         }
-if (grade >= 82) {
+else if (grade >= 82) {
     System.out.println("You are at 82/100 yay"); // this is the lowest you get for 7
 }
 else if (grade >= 69) {
